@@ -27,6 +27,6 @@ public class generic{
 	      // System.out.println(printArray(doubleArray));   // pass a Double array
 
 	      System.out.println("\nArray characterArray contains:");
-	      // System.out.println(printArray(charArray));   // pass a Character array
+	      // System.out.println(printArray(charArray));   // pass  heloo india kya huaaaaaas a Character array
 	   }
 	}
